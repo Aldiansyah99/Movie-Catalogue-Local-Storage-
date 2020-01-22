@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movie Catalogue (LS)</string>
+    <string name="text_tv_show">Tv Show</string>
+    <string name="text_movies">Movies</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_title">Title</string>
+    <string name="text_0_0">0.0</string>
+    <string name="text_tab_fav_movies">Movies</string>
+    <string name="text_tab_fav_tvShow">Tv Show</string>
+    <string name="release_date">Release Date :</string>
+    <string name="vote_average">Vote Average :</string>
+    <string name="text_overview">Overview</string>
+    <string name="text_popularity">Popularity</string>
+    <string name="first_air_date">First Air Date :</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="there_are_no_favorite_movies">There Are No Favorite Movies</string>
+    <string name="there_are_no_favorite_tvShow">There Are No Favorite Tv Show</string>
+    <string name="text_open_detail_movies">Open Detail Movies</string>
+    <string name="text_delete_item">Delete Movies</string>
+    <string name="text_change_language">Change Language</string>
+    <string name="text_delete_succsessfully">Deleted successfully</string>
+    <string name="text_add_success">Added successfully</string>
+
+</resources>

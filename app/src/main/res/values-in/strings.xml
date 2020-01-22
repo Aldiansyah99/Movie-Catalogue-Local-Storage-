@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue (LS)</string>
+    <string name="text_tv_show">Acara Tv</string>
+    <string name="text_movies">Film</string>
+    <string name="text_favorite">Favorit</string>
+    <string name="text_title">Judul</string>
+    <string name="text_0_0">0.0</string>
+    <string name="text_tab_fav_movies">Film</string>
+    <string name="text_tab_fav_tvShow">Acara Tv</string>
+    <string name="release_date">Tanggal Rilis :</string>
+    <string name="vote_average">Suara Rata-Rata :</string>
+    <string name="text_overview">Ikhtisar</string>
+    <string name="text_popularity">Popularitas</string>
+    <string name="first_air_date">Tayang Pertama :</string>
+    <string name="vote_count">Suara</string>
+    <string name="there_are_no_favorite_movies">Tidak Ada Film Favorit</string>
+    <string name="there_are_no_favorite_tvShow">Tidak Ada Acara Tv Favorit</string>
+    <string name="text_open_detail_movies">Buka Detail Film</string>
+    <string name="text_delete_item">Hapus Film</string>
+    <string name="text_change_language">Ubah Bahasa</string>
+
+</resources>
